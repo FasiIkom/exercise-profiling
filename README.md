@@ -38,6 +38,22 @@ To ensure functionality is not affected, I:
 - Conduct regression testing to verify that existing features work as expected.
 - Perform additional performance tests to confirm the effectiveness of the optimizations.
 
+### Performance Testing (Before Optimization)
+![Image](https://github.com/user-attachments/assets/0a6d775f-81b7-4e41-89d0-1df856149c3a)
+![Image](https://github.com/user-attachments/assets/88d4ef09-2ae2-4595-82e4-79fddc1ae6be)
+![Image](https://github.com/user-attachments/assets/521da771-c43b-42a8-bb06-93b2d8a00de0)
+![Image](https://github.com/user-attachments/assets/eaa50f02-96e1-434c-a365-2d5ce3a308c4)
+![Image](https://github.com/user-attachments/assets/cc48c47c-1652-4754-af28-35f659974117)
+![Image](https://github.com/user-attachments/assets/c6811347-7302-4dbc-b256-05b4e1cf287a)
+
+### Performance Testing (After Optimization)
+![Image](https://github.com/user-attachments/assets/7d4dbf58-24bf-421b-8da8-ed03462b7f1d)
+![Image](https://github.com/user-attachments/assets/bb288e02-b86e-4059-91b2-5f193ce596b0)
+![Image](https://github.com/user-attachments/assets/b0853258-47f5-4381-8f33-6603482408c1)
+![Image](https://github.com/user-attachments/assets/79290f2a-f694-4408-b8ec-b82ad46af675)
+![Image](https://github.com/user-attachments/assets/48c20836-cb91-445f-aed7-a41d3f20c606)
+![Image](https://github.com/user-attachments/assets/5e80f5c0-b69c-40c8-95c9-ec75270ad403)
+
 ### Conclusion after Performance Optimization
 
 After completing the profiling and performance optimization process, a performance test was conducted again using JMeter. The results showed a significant improvement compared to the initial measurements. Key improvements observed include:
@@ -47,11 +63,3 @@ After completing the profiling and performance optimization process, a performan
 - **Lower resource usage**: CPU and memory usage were optimized, reducing the likelihood of bottlenecks under high load.
 
 These improvements confirm that the optimizations made based on profiling insights were effective in enhancing the application's performance. The combination of JMeter for performance testing and IntelliJ Profiler for detailed code-level analysis proved to be a robust approach for identifying and resolving performance issues.
-
-### Performance Testing
-![Image](https://github.com/user-attachments/assets/0a6d775f-81b7-4e41-89d0-1df856149c3a)
-![Image](https://github.com/user-attachments/assets/88d4ef09-2ae2-4595-82e4-79fddc1ae6be)
-![Image](https://github.com/user-attachments/assets/521da771-c43b-42a8-bb06-93b2d8a00de0)
-![Image](https://github.com/user-attachments/assets/eaa50f02-96e1-434c-a365-2d5ce3a308c4)
-![Image](https://github.com/user-attachments/assets/cc48c47c-1652-4754-af28-35f659974117)
-![Image](https://github.com/user-attachments/assets/c6811347-7302-4dbc-b256-05b4e1cf287a)
