@@ -47,3 +47,10 @@ After completing the profiling and performance optimization process, a performan
 - **Lower resource usage**: CPU and memory usage were optimized, reducing the likelihood of bottlenecks under high load.
 
 These improvements confirm that the optimizations made based on profiling insights were effective in enhancing the application's performance. The combination of JMeter for performance testing and IntelliJ Profiler for detailed code-level analysis proved to be a robust approach for identifying and resolving performance issues.
+
+![Image](https://github.com/user-attachments/assets/0a6d775f-81b7-4e41-89d0-1df856149c3a)
+![Image](https://github.com/user-attachments/assets/88d4ef09-2ae2-4595-82e4-79fddc1ae6be)
+![Image](https://github.com/user-attachments/assets/521da771-c43b-42a8-bb06-93b2d8a00de0)
+![Image](https://github.com/user-attachments/assets/eaa50f02-96e1-434c-a365-2d5ce3a308c4)
+![Image](https://github.com/user-attachments/assets/cc48c47c-1652-4754-af28-35f659974117)
+![Image](https://github.com/user-attachments/assets/c6811347-7302-4dbc-b256-05b4e1cf287a)
