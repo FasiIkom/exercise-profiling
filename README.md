@@ -48,6 +48,7 @@ After completing the profiling and performance optimization process, a performan
 
 These improvements confirm that the optimizations made based on profiling insights were effective in enhancing the application's performance. The combination of JMeter for performance testing and IntelliJ Profiler for detailed code-level analysis proved to be a robust approach for identifying and resolving performance issues.
 
+### Performance Testing
 ![Image](https://github.com/user-attachments/assets/0a6d775f-81b7-4e41-89d0-1df856149c3a)
 ![Image](https://github.com/user-attachments/assets/88d4ef09-2ae2-4595-82e4-79fddc1ae6be)
 ![Image](https://github.com/user-attachments/assets/521da771-c43b-42a8-bb06-93b2d8a00de0)
